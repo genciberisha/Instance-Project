@@ -7,4 +7,10 @@ e gatshme [ElementTree](https://docs.python.org/2/library/xml.etree.elementtree.
   - Analizimin(parse)
   - Modifikimin
   - Krijimin
+
+
+
 e xml dokumenteve.
+
+Sortimi i instancave ështeë vetëm një **mini-task** e projektit të plotë, dhe gjithashtu projekti 
+për momentin është në përpunim e sipër.
