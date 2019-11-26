@@ -10,7 +10,7 @@ e gatshme ~~ElementTree~~ [lxml](https://lxml.de/) e cila shërben për :
 
 
 
-e xml dokumenteve.
+e xml dhe html dokumenteve.
 
 Libraria _lxml_ mund të merret me: 
 `pip install lxml`
@@ -19,5 +19,5 @@ Libraria _lxml_ mund të merret me:
 Sortimi i instancave është vetëm një **mini-task** e projektit të plotë, dhe gjithashtu projekti 
 për momentin është në përpunim e sipër.
 
-**_Disclaimer_** : Vegla ështeë dizajnuar dhe testuar në **Python3.7** por me gjasa që të funksionoj
+**_Disclaimer_** : Vegla është dizajnuar dhe testuar në **Python3.7** por me gjasa që të funksionoj
 normalisht përderisa e keni aktual **Python3+**.
